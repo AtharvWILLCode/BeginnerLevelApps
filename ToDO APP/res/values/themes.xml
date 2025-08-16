@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.TodoSplash" parent="Theme.ToDO2">
+        <item name="android:windowBackground">@drawable/tickdo_splash</item>
+        <item name="postSplashScreenTheme">@style/Theme.ToDO2</item>
+    </style>
+    
+    <style name="Theme.ToDO2" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
